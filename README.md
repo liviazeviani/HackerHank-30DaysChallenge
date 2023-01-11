@@ -15,12 +15,22 @@ Concatenate with the string you read as input and print the result on a new line
 
 **Day 2: Operators** - Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer.  
 Example    
+
 mealCost = 100  
 tipPercent = 15  
 taxPercent = 8  
 A tip of 15% * 100 = 15, and the taxes are 8% * 100 = 8. Print the value and return from the function.
 
-**Day 3: Intro to Conditional Statements**
+**Day 3: Intro to Conditional Statements** - Given an integer, perform the following conditional actions:
+
+if n is odd, print Weird 
+if n is even and in the inclusive range of 2 to 5, print Not Weird  
+if n is even and in the inclusive range of 6 to 20, print Weird  
+if n is even and greater than 20, print Not Weird
+
+
+Complete the stub code provided in your editor to print whether or not
+is weird.
 
 **Day 4: Class vs. Instance**
 
