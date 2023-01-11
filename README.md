@@ -13,11 +13,11 @@ Print the sum of plus your int variable on a new line.
 Print the sum of plus your double variable to a scale of one decimal place on a new line.
 Concatenate with the string you read as input and print the result on a new line. 
 
-**Day 2: Operators** - Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer.
-Example
-mealCost = 100
-tipPercent = 15
-taxPercent = 8
+**Day 2: Operators** - Given the meal price (base cost of a meal), tip percent (the percentage of the meal price being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. Round the result to the nearest integer.  
+Example    
+mealCost = 100  
+tipPercent = 15  
+taxPercent = 8  
 A tip of 15% * 100 = 15, and the taxes are 8% * 100 = 8. Print the value and return from the function.
 
 **Day 3: Intro to Conditional Statements**
