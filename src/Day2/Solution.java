@@ -16,12 +16,12 @@ class Result {
 
     public static void solve(double meal_cost, int tip_percent, int tax_percent) {
         // Write your code here
-        Integer totalCost = 0;
-        Double tip;
-        Double tax;
+        long totalCost = 0;
+        double tip;
+        double tax;
         tip = meal_cost * tip_percent / 100;
         tax = meal_cost * tax_percent / 100;
-        totalCost = (int)(meal_cost + tip + tax);
+        totalCost = Math.round(meal_cost + tip + tax);
         System.out.println(totalCost);
 
 
