@@ -40,7 +40,7 @@ is weird.
 - if age >= 13 and age < 18 print "You are a teenager"
 - Otherwise, print "You are old"
 
-**Day 5: Loops**
+**Day 5: Loops** - Given an integer n, print its first 10 multiples. Each multiple _n x i_ (where 1 <= i <=10) should be printed on a new line in the form: n x i = result.
 
 **Day 6: Let's Review**
 
