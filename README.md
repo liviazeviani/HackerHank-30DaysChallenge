@@ -32,7 +32,13 @@ if n is even and greater than 20, print Not Weird
 Complete the stub code provided in your editor to print whether or not
 is weird.
 
-**Day 4: Class vs. Instance**
+**Day 4: Class vs. Instance** - Write a Person class with an instance variable, age,and a constructor that takes an integer, initialAge, as a parameter. The constructor must assign initialAge to age after confirming the argument passed as initialAge is not negative; if a negative argument is passed as initialAge, the constructor should set age to and print "Age is not valid", setting age to 0. In addition, you must write the following instance methods:  
+1) yearPasses() should increase the instance variable by 1.
+.
+2) amIOld() should perform the age following conditional actions:
+- if age < 13, print "You are young"
+- if age >= 13 and age < 18 print "You are a teenager"
+- Otherwise, print "You are old"
 
 **Day 5: Loops**
 
